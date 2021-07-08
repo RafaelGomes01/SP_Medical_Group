@@ -1,0 +1,46 @@
+.body-page-consulta{
+    width: 100%;
+}
+
+.body-header-consulta{
+    margin: none;
+    width: 100%;
+    height: 5vh;
+    margin-top: 5px;
+    background-color: #292A3E;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.body-header-content{
+    width: 97%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.body-header-consulta h1{
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 37px;
+    color: #DEDEDE;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+  
+::-webkit-scrollbar-thumb {
+    background: #8600c09d; 
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5); 
+}
+
+.filter{
+    display: flex;
+    color: #DEDEDE;
+    width: 170px;
+    align-items: center;
+    justify-content: space-between
+    ;
+}

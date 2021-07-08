@@ -1,0 +1,25 @@
+.left-mid-content{
+    width: 100%;
+    height: 40%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.card-mid{
+    width: 49%;
+    height: 100%;
+    background-color: #292A3E;
+    border-radius: 10px;
+}
+
+.principalTable{
+    width: 100%;
+    height: 100%;
+    color: #8b8b8b;
+}
+
+.principalTable td{
+    text-align: center;
+    border: 1px solid #020202;
+}
+

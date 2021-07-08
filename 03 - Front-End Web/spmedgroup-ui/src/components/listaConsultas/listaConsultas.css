@@ -1,0 +1,36 @@
+.body-body-consulta{
+    height: 89vh;
+    overflow: scroll;
+    overflow-x: hidden;
+}
+
+.body-body-consulta table, td, tr, th{
+    border: 1px solid #4A4B57;
+    border-collapse: collapse;
+}
+
+.body-body-consulta table{
+    width: 100%;
+    border-right: none;
+    border-left: none;
+}
+
+.body-body-consulta th{
+    height: 54px;
+    color: #DEDEDE7D;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: initial;
+    padding-left: 1.4vw;
+}
+
+.body-body-consulta td{
+    height: 5vh;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: #DEDEDE;
+    padding-left: 1.4vw;
+}
